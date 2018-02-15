@@ -2,4 +2,4 @@
 Repository stores various configurations
 
 ## Far 3
-### far.cfg
+`far /import far.cfg`
